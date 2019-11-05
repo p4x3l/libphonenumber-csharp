@@ -8000,7 +8000,7 @@
         <nationalNumberPattern>
           (?:
             [2-7]\d|
-            8[126-9]|
+            8[1236-9]|
             9[1-36-9]
           )\d{6}
         </nationalNumberPattern>
@@ -8011,7 +8011,7 @@
         <nationalNumberPattern>
           (?:
             [2-7]\d|
-            8[126-9]|
+            8[1236-9]|
             9[1-36-9]
           )\d{6}
         </nationalNumberPattern>
